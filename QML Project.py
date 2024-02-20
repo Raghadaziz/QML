@@ -5,6 +5,9 @@ Created on Tue Feb 20 18:08:59 2024
 
 @author: raghad
 """
+#DataSets:
+#https://www.kaggle.com/datasets/dermisfit/fraud-transactions-dataset/data
+
 import pandas as pd
 import numpy as np
 from sklearn.ensemble import RandomForestClassifier
