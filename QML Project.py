@@ -5,6 +5,7 @@ Created on Tue Feb 20 18:08:59 2024
 
 @author: raghad
 """
+#slides: https://www.canva.com/design/DAF9ZfUHBaw/WT3HCFIyky2DJmP9u4CnbA/edit?utm_content=DAF9ZfUHBaw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 #DataSets:
 #https://www.kaggle.com/datasets/dermisfit/fraud-transactions-dataset/data
 
